@@ -1,0 +1,7 @@
+{
+  "name": "Leilao",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
